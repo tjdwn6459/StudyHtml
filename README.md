@@ -30,7 +30,7 @@ HTML 기본학습
    }
    ```
    
-   [실행결과](https://github.com/tjdwn6459/StudyHtml/blob/main/lef.images/img_20210126_160926_001.png "실행결과")
+   ![실행결과](https://github.com/tjdwn6459/StudyHtml/blob/main/lef.images/img_20210126_160926_001.png "실행결과")
    
    
    참조링크
