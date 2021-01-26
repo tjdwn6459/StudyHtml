@@ -23,6 +23,8 @@ HTML 기본학습
 ## CSS3
 CSS 기본학습
 
+> CSS is Casting Style Sheets.
+
 ----------------------------------
 
 ## Javascript
