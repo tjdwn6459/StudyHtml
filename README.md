@@ -19,8 +19,8 @@ HTML 기본학습
    + UL2
    + UL3
    
- +[X]운동 하기
- +[ ]강의 듣기
+ + [x]운동 하기
+ + [ ]강의 듣기
    
    ```javascript
    using System .IO;
