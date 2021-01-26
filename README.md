@@ -13,9 +13,9 @@ HTML 기본학습
 2. HTML 역사
 3. HTML5 차이점
 
-- Hyper Text Markup languae 정의
-- HTML 역사
-- HTML5 차이점
+- Hyper Text Markup *languae* 정의
+- __HTML__ _역사_
+- **HTML5**의 ~차이점~
    + UL2
    + UL3
 ---------------------------------
