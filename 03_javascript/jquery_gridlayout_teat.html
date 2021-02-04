@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>Page Title</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <script src= 'js/js/'></script>
+    <script src='masonry.pkgd.min.js'></script>
+    <style>
+        * {
+            margin: 0px;
+            padding: 0px;
+        }
+
+        .box {
+            background-color: blueviolet;
+            margin: 5px;
+
+
+        }
+    </style>
+    <script>
+        $(document).ready(function () {
+            // 문서객체 추가 함수 선언
+            var appendDoc = function () {
+                for (let index = 0; index < 100; index++) {
+                    $("<img class=\"box\"></img>").css({
+                        width: '200px',
+                        height: Math.floor(Math.random() * 200) + 50
+                }).appendTo("body");
+        $("<h1>Infinity scroll" + index + "</h1>").appendTo("body");
+                }
+            }
+
+        appendDoc(); //함수호출
+
+        $(window).scroll(function () {
+            var scrollHeight = $(window).scrollTop() + $(window).height();
+            var docHeight = $(document).height();
+
+            if (scrollHeight == docHeight) {
+
+                appendDoc();// 함수 호출
+            }
+        });
+        });
+    </script>
+</head>
+
+<body>
+
+</body>
+
+</html>
