@@ -13,7 +13,7 @@ HTML 기본학습
 CSS 기본학습 
 
 ### CSS기본학습
-[CSS소스](https://github.com/tjdwn6459/StudyHtml/tree/main/02_CSS)
+[CSS소스] (https://github.com/tjdwn6459/StudyHtml/tree/main/02_CSS)
 
 -------------------------------------
 
@@ -29,7 +29,7 @@ Javascript 기본학습 <br>
 ## Project 
 Project 기본학습
 
-## Project
+### Project
 전체 통합 프로젝트<br>
 [전체소스] (https://github.com/tjdwn6459/StudyHtml/tree/main/04_project)
 
