@@ -39,8 +39,4 @@ Project 기본학습
 [Interest]
 
 -------------------------------------------
-![결과1](file:///C:/GitRepository/StudyHtml/04_project/index.html)
-
-(img_20210310_101356_001.jpg)
-
-
+![결과1]![img_20210310_101356_001](https://user-images.githubusercontent.com/77951833/110561681-74814c00-818b-11eb-8c1f-3795d8b969a3.jpg)
