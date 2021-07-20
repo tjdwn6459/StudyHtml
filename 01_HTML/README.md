@@ -20,11 +20,12 @@
         <hr>
         <p><i><b><small>Lorem ipsum</small> dolor, sit amet consectetur adipisicing elit. <br>
              sapiente perspiciatis soluta ad assumenda ipsa dolore praesentium enim ea animi, officia omnis quas nihil hic quam recusandae quos sequi. Numquam.</b></i></p>
-        
-             <a href="https://www.naver.com"target="_blank">naver</a>
-             <a href="https://www.daum.net"target="_self">다음</a> <br>
-             <a href="mailto:tjdwn6459@naver.com">안성주이메일 </a>
-            </body>
+
+
+        <a href= "https://www.naver.com">naver</a><br>
+        <a href= "https://www.daum.net">다음</a><br>
+        <a href ="mailto:tjdwn6459@naver.com">안성주이메일 </a><br>
+    </body>
 </html>
 
 ## HTML5 입력 태그
