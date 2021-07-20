@@ -20,13 +20,18 @@
         <hr>
         <p><i><b><small>Lorem ipsum</small> dolor, sit amet consectetur adipisicing elit. <br>
              sapiente perspiciatis soluta ad assumenda ipsa dolore praesentium enim ea animi, officia omnis quas nihil hic quam recusandae quos sequi. Numquam.</b></i></p>
+   </body>
+        
 
+    
+<a href= "https://www.naver.com">naver</a><br>
+<a href= "https://www.daum.net">다음</a><br>
+<a href ="mailto:tjdwn6459@naver.com">안성주이메일 </a><br>
 
-        <a href= "https://www.naver.com">naver</a><br>
-        <a href= "https://www.daum.net">다음</a><br>
-        <a href ="mailto:tjdwn6459@naver.com">안성주이메일 </a><br>
-    </body>
+    
 </html>
+
+
 
 ## HTML5 입력 태그- 각종입력요소
 ##### select (메뉴 표시하고 사용자가 선택하도록) 
