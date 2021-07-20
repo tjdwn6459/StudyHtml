@@ -44,4 +44,4 @@
 
 ![label2](https://user-images.githubusercontent.com/77951833/126258349-92d5b614-9a24-43aa-9112-8ed828ad7793.png)
 ## HTML form만들기
-![html form practice](https://user-images.githubusercontent.com/77951833/126257339-dd1c6b18-cb0c-467c-8809-c2b1ab387fb9.png)
+![image](https://user-images.githubusercontent.com/77951833/126264153-4257d91d-5945-416f-836c-af80a22f0247.png)
