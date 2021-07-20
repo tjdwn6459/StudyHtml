@@ -28,8 +28,15 @@
     </body>
 </html>
 
-## HTML5 입력 태그
- [이전] https://github.com/tjdwn6459/StudyHtml/tree/main/01_HTML
+## HTML5 입력 태그- 각종입력요소
+# select (메뉴 표시하고 사용자가 선택하도록) 
+![select](https://user-images.githubusercontent.com/77951833/126258333-68fa3d05-a10d-4952-8192-1d7d831da041.png)
+![select2](https://user-images.githubusercontent.com/77951833/126258347-3550be26-6e31-4374-8191-b8d78aa2100c.png)
 
+
+# input (요소를 누르면서 선택하게됨)
+![label](https://user-images.githubusercontent.com/77951833/126258334-4dd30923-f6e2-43e1-934e-2b2ab067ebf6.png)
+
+![label2](https://user-images.githubusercontent.com/77951833/126258349-92d5b614-9a24-43aa-9112-8ed828ad7793.png)
 ## HTML form만들기
 ![html form practice](https://user-images.githubusercontent.com/77951833/126257339-dd1c6b18-cb0c-467c-8809-c2b1ab387fb9.png)
