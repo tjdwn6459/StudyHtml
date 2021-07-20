@@ -29,3 +29,6 @@
 
 ## HTML5 입력 태그
  [이전] https://github.com/tjdwn6459/StudyHtml/tree/main/01_HTML
+
+## HTML form만들기
+![html form practice](https://user-images.githubusercontent.com/77951833/126257339-dd1c6b18-cb0c-467c-8809-c2b1ab387fb9.png)
