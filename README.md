@@ -32,6 +32,7 @@ JavaScript 기본학습
 
 ### Javascript 기본학습
 #### 복잡한 무언가 (주기적으로 내용이 갱신되는 기능이나 능동적인지도, 2D 그래픽, 동영상)을 웹페이지에 적용할 수 있게 하는 프로그래밍 언어. 
+![Hnet com-image (1)](https://user-images.githubusercontent.com/77951833/126605046-157afc82-5664-4b51-8e75-7ce83c31fb94.gif)
 
 
 [JS소스](https://github.com/tjdwn6459/StudyHtml/tree/main/03_javascript)
